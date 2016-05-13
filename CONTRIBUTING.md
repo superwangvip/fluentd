@@ -10,6 +10,8 @@ If you have further questions about Fluentd and plugins, please direct these to 
 
 Don't use Github issue for asking questions.
 Github issue is mainly for submitting a bug report or feature request. See below.
+test
+
 
 ## Found a bug?
 
